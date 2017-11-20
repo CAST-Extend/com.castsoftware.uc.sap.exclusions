@@ -1,6 +1,6 @@
 #com.castsoftware.uc.sap.exclusions 
 
-# AP - Exclusions of ABAP generated code  
+# SAP - Exclusions of ABAP generated code  
 
 # Introduction
 The goal of this extension is to exclude the ABAP generated code    
