@@ -1,4 +1,4 @@
-#com.castsoftware.uc.sap.exclusions 
+# com.castsoftware.uc.sap.exclusions 
 
 # SAP - Exclusions of ABAP generated code  
 

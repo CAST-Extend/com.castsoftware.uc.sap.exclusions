@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.sap.exclusions</id>
+    <version>1.1.2</version>
+    <title>SAP - Generated code exclusions</title>
+    <authors>User Community</authors>
+    <owners>CAST</owners>
+    <projectUrl>https://github.com/CAST-Extend/com.castsoftware.uc.sap.exclusions</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/CAST-Extend/com.castsoftware.uc.sap.exclusions/master/Generated%20code.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This plugin set some ABAP generated objects as external i.e. will not be included in CAST dashboards / not taken into scope for measurement.</description>
+    <tags>SAP ABAP Exclusions Generated TGU CSS</tags>    
+    <releaseNotes>TBD</releaseNotes>
+    <dependencies>
+      <dependency id="CAIP" version="8.0.0" />
+    </dependencies>
+  </metadata>
+</package>
